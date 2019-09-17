@@ -2,7 +2,7 @@
   "name": "botkit-packages",
   "private": true,
   "scripts": {
-    "version": "0.0.1"
+    "version": "0.0.1",
     "postinstall": "lerna bootstrap --hoist",
     "build": "lerna run build",
     "test": "lerna run build ; lerna run test",
