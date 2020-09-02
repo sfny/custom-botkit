@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "botbuilder": "^4.5.2",
-    "googleapis": "^34.0.0",
+    "googleapis": "^59.0.0",
     "botkit": "^4.5.0",
     "debug": "^4.1.0"
   },
